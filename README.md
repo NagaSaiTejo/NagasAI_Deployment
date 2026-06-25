@@ -1,16 +1,12 @@
 # Deployment_ready_NagasAI
 
-Simple static website project.
+Simple static website project for deployement of the .exe file.
 
 ## Files
 
-- `index.html` - main page
+- `index.html` - main page with the download button to download .exe file.
 - `style.css` - site styling
 
-## Push to GitHub
+# How to download 
 
-```bash
-git add .
-git commit -m "Add project README"
-git push
-```
+- Click on the download button to download the exe file.
